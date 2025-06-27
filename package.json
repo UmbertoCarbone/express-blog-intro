@@ -1,0 +1,25 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch --env-file=.env main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmbertoCarbone/express-blog-intro.git"
+  },
+  "keywords": [],
+  "author": "Carbone Umberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmbertoCarbone/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/UmbertoCarbone/express-blog-intro#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.6.0",
+    "express": "^5.1.0"
+  }
+}
